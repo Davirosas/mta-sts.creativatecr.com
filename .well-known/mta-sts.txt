@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: smtp.hostinger.com
+mx1.hostinger.com
+mx2.hostinger.com
 max_age: 604800
